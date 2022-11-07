@@ -17,15 +17,16 @@ The dataset contains the following files:
 The columns provided in the dataset are as follows-
 ![image](column%20description.png)
  
+<!-- 
 # Sections
 
 # Final Presentation
 
 # Model Architecture
 The Transformer Architecture used by us is shown in the figure. We used the pre-trained models released by [HuggingFace](https://huggingface.co/models).\
-
-# Results
+ -->
 
 We achieved an F1-score of 0.5945 using an ensemble of Roberta models for anger, neutral and other classes
-
+<!-- 
 # File descriptions
+ -->
