@@ -13,7 +13,7 @@ The dataset contains the following files:
  sample_submission.csv: 10x14
  
 The columns provided in the dataset are as follows-
-![image](column_description.png)
+![image](column description.png)
  
 
 # Contributors - [Ramashish Gupta](https://www.linkedin.com/in/ramashish-gupta-697508214/), [Archit Mangrulkar](https://www.linkedin.com/in/archit-mangrulkar-033327199/), [Parv Jain](https://www.linkedin.com/in/parv-jain-5a9a961bb/), [Harsh Khandelwal](https://www.linkedin.com/in/harsh16khandelwal/)
