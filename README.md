@@ -1,7 +1,8 @@
 # sigmoid-datathon
 This repository contains our approaches on the Emotion Classification Task in the [Sigmoid Data Science Hackathon](https://www.hackerearth.com/challenges/competitive/sigmoid-data-science-hackathon-machine-learning-challenge/)
 
-Contributors - [Ramashish Gupta](https://www.linkedin.com/in/ramashish-gupta-697508214/), [Archit Mangrulkar](https://www.linkedin.com/in/archit-mangrulkar-033327199/), [Parv Jain](https://www.linkedin.com/in/parv-jain-5a9a961bb/), [Harsh Khandelwal](https://www.linkedin.com/in/harsh16khandelwal/)
+Contributors - [Ramashish Gupta](https://www.linkedin.com/in/ramashish-gupta-697508214/), [Archit Mangrulkar](https://www.linkedin.com/in/archit-mangrulkar-033327199/), [Parv Jain](https://www.linkedin.com/in/parv-jain-5a9a961bb/), [Harsh Khandelwal](https://www.linkedin.com/in/harsh16khandelwal/), [Gaurav Kumar](www.linkedin.com/in/gauravk8271)
+
 
 The focus of sentiment analysis is to derive information from human language for interpreting views and feelings to assign polarities like positive, negative, or neutral. However, emotion detection aims at finding out more specific sentiment tones such as happiness, sadness, depression, anxiety, etc. Emotion detection can be applied to different types of unstructured data with text being one of such types of data.
 
